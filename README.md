@@ -1,12 +1,12 @@
 
 # The Astrohumans Project 
 
-## App Details (remove this header when done) 
+## App Details 
 
 
 
+### Team Expectations
 >Team Expectations - List what each individual expects from the team 
-
 
 Team Member | Expectation | Discussed
 | :---: | :---: | :---:
@@ -15,10 +15,10 @@ Divine  | Content Cell | &#9744;
 Tafari  | Content Cell | &#9744;
 Sita | Content Cell | &#9744;
 
+### Documents
 > Data Flow Document - Using *Whimsical* make a document that shows the data flow between your front-end and back-end, with component hierarchy added. 
 
->API Snippet - A sample snippet of JSON from a *successful* request made in Postman 
-
+>API Snippet - A sample snippet of JSON from a *successful* request made in Postman (Do this during or after meeting MVP)
 
 >Wireframes - A mockup of the application's views - Desktop and Mobile 
 
