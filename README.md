@@ -1,7 +1,7 @@
 
 # The Astrohumans Project 
 
->App's Description - Here!
+## App Details (remove this header when done) 
 
 
 
@@ -30,14 +30,12 @@ Sita | Content Cell | &#9744;
   * Have a complete and nice looking ```README.md``` file
   * Take the time for each team member to discuss where they feel strongest and weakest, in terms of coding ability.
   * Complete the Whimsical Dataflow Document above 
-  * Delete this section when project is complete 
 
 ### Collaboration
   * Contribute equally
   * Have a solid understanding of the entire project even if its features were done by other teammates
   * Take time to do pair-programming with teammates to reinforce learning
   * Be prepared to explain sections of code written by teammates.
-  * Delete this section when project is complete
   
 ### Client 
   * Have a working, interactive React app, built using ```npx create-react-app client``` 
