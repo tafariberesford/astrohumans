@@ -10,7 +10,7 @@
 
 Team Member | Expectation | Discussed
 | :---: | :---: | :---:
-Content Cell  | Content Cell |:checkbox:
+Content Cell  | Content Cell | &#9744;
 Content Cell  | Content Cell |- [] expectation
 Content Cell  | Content Cell |- [] expectation
 Content Cell  | Content Cell |- [] expectation 
