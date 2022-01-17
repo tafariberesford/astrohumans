@@ -1,5 +1,5 @@
 
-# Astrohumans
+# The Astrohumans Project 
 
 >App's Description - Here!
 
@@ -18,7 +18,7 @@
 
 
 >MVP - A list of features that  you need to meet the minimum viable product. These are the essential functions that must be prioritized against the rest of the app's features
-*When done delete this entire section - move non-specific details about the app to App Description  *
+
 ## Planning 
   * Have our Team Expectations table complete 
   * Have a complete and nice looking ```README.md``` file
