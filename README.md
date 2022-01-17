@@ -6,6 +6,8 @@
 
 
 >Team Expectations - List what each individual expects from the team 
+
+
 Team Member | Expectation | Discussed
 | :---: | :---: | :---:
 Content Cell  | Content Cell | -[]
