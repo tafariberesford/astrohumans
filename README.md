@@ -87,9 +87,12 @@ Sita | Content Cell | &#9744;
   
 
 
+## Post-MVP Features
 >Post-MVP - A list of extra features that you add to the project after MVP
 
 
+
+## Time-Management
 >Goals - What would you like to complete each day of the project week?
 
 
