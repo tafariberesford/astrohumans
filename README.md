@@ -20,7 +20,7 @@ Sita | Content Cell | &#9744;
 >API Snippet - A sample snippet of JSON from a *successful* request made in Postman 
 
 
->Wireframes - A mockup of the application's views - Desktop and Mobile - API/DB 
+>Wireframes - A mockup of the application's views - Desktop and Mobile 
 
 
 >MVP - A list of features that  you need to meet the minimum viable product. These are the essential functions that must be prioritized against the rest of the app's features
