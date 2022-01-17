@@ -1,5 +1,5 @@
 
-# The Astrohumans Project 
+# The Astrohuman Project 
 
 ## App Details 
 
