@@ -10,7 +10,7 @@
 
 Team Member | Expectation | Discussed
 | :---: | :---: | :---:
-Kheyyon   | 100% Transparency - Be Honest About Your Situation. It's make helping you a lot easier which makes the project an enjoyable learning lesson. | &#9744;
+Kheyyon   | 100% Transparency - Be Honest About Your Situation. It will make this project alot easier trust me! | &#9744;
 Divine  | Content Cell | &#9744;
 Tafari  | Content Cell | &#9744;
 Sita | Content Cell | &#9744;
