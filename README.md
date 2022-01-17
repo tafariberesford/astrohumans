@@ -11,9 +11,9 @@
 Team Member | Expectation | Discussed
 | :---: | :---: | :---:
 Content Cell  | Content Cell | &#9744;
-Content Cell  | Content Cell |- [] expectation
-Content Cell  | Content Cell |- [] expectation
-Content Cell  | Content Cell |- [] expectation 
+Content Cell  | Content Cell | &#9744;
+Content Cell  | Content Cell | &#9744;
+Content Cell  | Content Cell | &#9744;
 
 > Data Flow Document - Using *Whimsical* make a document that shows the data flow between your front-end and back-end, with component hierarchy added. 
 
