@@ -17,7 +17,7 @@ Content Cell  | Content Cell | &#9744;
 
 > Data Flow Document - Using *Whimsical* make a document that shows the data flow between your front-end and back-end, with component hierarchy added. 
 
-
+- [ ] bar
 >API Snippet - A sample snippet of JSON from a *successful* request made in Postman 
 
 
